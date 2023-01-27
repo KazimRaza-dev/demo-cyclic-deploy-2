@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/add', (req, res) => {
-  res.send('New record added.');
+  res.send('New record added..');
 });
 
 //API to show demo data
